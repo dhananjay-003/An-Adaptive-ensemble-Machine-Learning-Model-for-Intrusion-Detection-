@@ -25,7 +25,8 @@ Clone this repository:
 bash
 
 Copy code
-git clone https://github.com/your_username/your_repo_name.git
+
+git clone https://github.com/dhananjay-003/An-Adaptive-ensemble-Machine-Learning-Model-for-Intrusion-Detection-/blob/main/ML_PRJCT_F%20(1).ipynb)
 
 Install the required dependencies:
 bash
